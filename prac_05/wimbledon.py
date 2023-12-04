@@ -56,6 +56,6 @@ def get_countries(data):
     for row in data:
         countries.add(row[COUNTRY_INDEX])
     return countries
-
+#1
 
 main()
